@@ -1,0 +1,1 @@
+near-min-fungible_token

@@ -1,0 +1,11 @@
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/generic_array-ab611ae170f369a2.rmeta: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/generic_array-ab611ae170f369a2.d: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs
+
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/lib.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/hex.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/impls.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/arr.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/functional.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/iter.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.14.6/src/sequence.rs:

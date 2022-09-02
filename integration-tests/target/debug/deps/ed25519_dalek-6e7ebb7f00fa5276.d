@@ -1,0 +1,11 @@
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/ed25519_dalek-6e7ebb7f00fa5276.rmeta: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/ed25519_dalek-6e7ebb7f00fa5276.d: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs:

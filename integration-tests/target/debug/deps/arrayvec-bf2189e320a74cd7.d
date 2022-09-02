@@ -1,0 +1,11 @@
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/arrayvec-bf2189e320a74cd7.rmeta: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/arrayvec-bf2189e320a74cd7.d: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs:

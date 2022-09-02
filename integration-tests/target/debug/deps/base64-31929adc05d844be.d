@@ -1,0 +1,12 @@
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/base64-31929adc05d844be.rmeta: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/base64-31929adc05d844be.d: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs:

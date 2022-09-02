@@ -1,0 +1,11 @@
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/digest-edc1cfd18177894e.rmeta: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs
+
+/Users/marija/Documents/near/mint_fungible_token/integration-tests/target/debug/deps/digest-edc1cfd18177894e.d: /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs
+
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs:
+/Users/marija/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs:
